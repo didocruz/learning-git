@@ -1,3 +1,3 @@
 # learning-git
 
-Learning git with amigoscode 
+Learning git with amigoscode 👨‍🎓 💻
